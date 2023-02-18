@@ -39,4 +39,10 @@ This is what a web3NOSTR event looks like:
 * [keccak-256](https://ethereum.org/en/glossary/#keccak-256)
 
 
-## 
+## Relay network 
+
+Relays are simple websocket servers which verify incoming events as containing a valid signature. There is no account creation required. 
+Clients are able to subscribe to a specific user and will recive new events coming from a specific user. 
+
+
+
