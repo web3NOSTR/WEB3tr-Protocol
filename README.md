@@ -11,6 +11,11 @@ The web3 world would benefit from a version of nostr that is built around web3 a
 This opens up use cases that can interwine with smart contracts along any evm compatible blockchain. 
 
 
+## Find our community 
+[Discord](https://discord.gg/zZF5RE5Ty5)
+[Twitter](https://twitter.com/web3nostr)
+[Reddit](https://www.reddit.com/r/web3NOSTR/)
+
 
 ## TLDR: How web3NOSTR works
 
