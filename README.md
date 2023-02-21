@@ -1,4 +1,4 @@
-# WEB3tr-Standard
+# WEB3tr-Protocol
 The definition for the WEB3tr standard. WEB3tr is a web3 focused version of nostr. 
 
 
