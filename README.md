@@ -12,6 +12,7 @@ This opens up use cases that can interwine with smart contracts along any evm co
 
 
 ## Find our community
+This is a brand new protocol and quickly chaning. Help build with us.
 Join us and connect with us in the following locations:
 
 [Discord](https://discord.gg/zZF5RE5Ty5)
